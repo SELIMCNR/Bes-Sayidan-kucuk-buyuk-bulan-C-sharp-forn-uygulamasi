@@ -1,0 +1,11 @@
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\bin\Debug\GirilenOnSayidanBuyukKucukBulma.exe.config
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\bin\Debug\GirilenOnSayidanBuyukKucukBulma.exe
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\bin\Debug\GirilenOnSayidanBuyukKucukBulma.pdb
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.csproj.AssemblyReference.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.csproj.SuggestedBindingRedirects.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.Form1.resources
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.Properties.Resources.resources
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.csproj.GenerateResource.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.csproj.CoreCompileInputs.cache
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.exe
+C:\Dersler\Yazılım geliştirme\C-# Form-Proje\GirilenOnSayidanBuyukKucukBulma\GirilenOnSayidanBuyukKucukBulma\obj\Debug\GirilenOnSayidanBuyukKucukBulma.pdb
